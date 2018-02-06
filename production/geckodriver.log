@@ -1,0 +1,586 @@
+1509976453531	geckodriver	INFO	geckodriver 0.18.0
+1509976453622	geckodriver	INFO	Listening on 127.0.0.1:55359
+1509976454698	geckodriver::marionette	INFO	Starting browser /Applications/TorBrowser.app/Contents/MacOS/firefox with args ["-marionette"]
+1509976455200	addons.xpi-utils	ERROR	Unable to read anything useful from the database
+1509976456300	Marionette	INFO	Listening on port 55368
+1509976456600	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/browser.js, line 7783: TypeError: gURLBar is null
+2017-11-06 13:54:19.162 plugin-container[36522:4340286] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f47, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-06 13:54:19.164 plugin-container[36522:4340286] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c37, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-06 13:54:19.164 plugin-container[36522:4340286] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1509976482699	geckodriver	INFO	geckodriver 0.18.0
+1509976482760	geckodriver	INFO	Listening on 127.0.0.1:55419
+1509976484045	geckodriver::marionette	INFO	Starting browser /Applications/TorBrowser.app/Contents/MacOS/firefox with args ["-marionette"]
+1509976484600	addons.xpi-utils	ERROR	Unable to read anything useful from the database
+1509976486000	Marionette	INFO	Listening on port 55432
+1509976486200	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/browser.js, line 7783: TypeError: gURLBar is null
+2017-11-06 13:54:48.488 plugin-container[36530:4340857] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-06 13:54:48.489 plugin-container[36530:4340857] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4d07, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-06 13:54:48.489 plugin-container[36530:4340857] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+2017-11-06 13:56:06.720 plugin-container[36532:4341546] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-06 13:56:06.721 plugin-container[36532:4341546] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x5017, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-06 13:56:06.721 plugin-container[36532:4341546] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1509976578177	geckodriver	INFO	geckodriver 0.18.0
+1509976578234	geckodriver	INFO	Listening on 127.0.0.1:55499
+1509976579299	geckodriver::marionette	INFO	Starting browser /Applications/TorBrowser.app/Contents/MacOS/firefox with args ["-marionette"]
+1509976579600	addons.xpi-utils	ERROR	Unable to read anything useful from the database
+1509976580200	Marionette	INFO	Listening on port 55508
+1509976580400	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/browser.js, line 7783: TypeError: gURLBar is null
+2017-11-06 13:56:22.231 plugin-container[36539:4341854] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-06 13:56:22.232 plugin-container[36539:4341854] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x452f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-06 13:56:22.232 plugin-container[36539:4341854] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+2017-11-06 13:57:25.625 plugin-container[36545:4342485] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-06 13:57:25.626 plugin-container[36545:4342485] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4e13, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-06 13:57:25.626 plugin-container[36545:4342485] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1509976661760	geckodriver	INFO	geckodriver 0.18.0
+1509976661812	geckodriver	INFO	Listening on 127.0.0.1:55571
+1509976662878	geckodriver::marionette	INFO	Starting browser /Applications/TorBrowser.app/Contents/MacOS/firefox with args ["-marionette"]
+1509976663100	addons.xpi-utils	ERROR	Unable to read anything useful from the database
+1509976663800	Marionette	INFO	Listening on port 55580
+1509976664000	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/browser.js, line 7783: TypeError: gURLBar is null
+2017-11-06 13:57:46.114 plugin-container[36552:4342949] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-06 13:57:46.115 plugin-container[36552:4342949] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4d07, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-06 13:57:46.115 plugin-container[36552:4342949] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=83.2726) [Child 36552] ###!!! ABORT: Aborting on channel error.: file /home/debian/build/tor-browser/ipc/glue/MessageChannel.cpp, line 2152
+[Child 36552] ###!!! ABORT: Aborting on channel error.: file /home/debian/build/tor-browser/ipc/glue/MessageChannel.cpp, line 2152
+1510383024124	geckodriver	INFO	geckodriver 0.18.0
+1510383024195	geckodriver	INFO	Listening on 127.0.0.1:61629
+1510383025314	geckodriver::marionette	INFO	Starting browser /Applications/TorBrowser.app/Contents/MacOS/firefox with args ["-marionette"]
+1510383025700	addons.xpi-utils	ERROR	Unable to read anything useful from the database
+1510383026300	Marionette	INFO	Listening on port 61638
+1510383026600	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/browser.js, line 7783: TypeError: gURLBar is null
+2017-11-11 06:50:28.806 plugin-container[55777:5020178] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x903f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-11 06:50:28.809 plugin-container[55777:5020178] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x511b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-11 06:50:28.809 plugin-container[55777:5020178] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1510383053718	geckodriver	INFO	geckodriver 0.18.0
+1510383053767	geckodriver	INFO	Listening on 127.0.0.1:61677
+1510383054892	geckodriver::marionette	INFO	Starting browser /Applications/TorBrowser.app/Contents/MacOS/firefox with args ["-marionette"]
+1510383055200	addons.xpi-utils	ERROR	Unable to read anything useful from the database
+1510383055800	Marionette	INFO	Listening on port 61686
+1510383056000	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/browser.js, line 7783: TypeError: gURLBar is null
+2017-11-11 06:50:58.007 plugin-container[55784:5020819] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-11 06:50:58.009 plugin-container[55784:5020819] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x900b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-11 06:50:58.009 plugin-container[55784:5020819] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+2017-11-11 06:52:08.423 plugin-container[55786:5021787] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f4b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-11 06:52:08.425 plugin-container[55786:5021787] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x481b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-11 06:52:08.426 plugin-container[55786:5021787] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=1.03415) 
+###!!! [Child][MessageChannel] Error: (msgtype=0x4600D1,name=PContent::Msg_GraphicsError) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1510383145951	geckodriver	INFO	geckodriver 0.18.0
+1510383146020	geckodriver	INFO	Listening on 127.0.0.1:61725
+1510383147066	geckodriver::marionette	INFO	Starting browser /Applications/TorBrowser.app/Contents/MacOS/firefox with args ["-marionette"]
+1510383147400	addons.xpi-utils	ERROR	Unable to read anything useful from the database
+1510383148000	Marionette	INFO	Listening on port 61734
+1510383148100	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/browser.js, line 7783: TypeError: gURLBar is null
+2017-11-11 06:52:29.726 plugin-container[55794:5022349] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-11 06:52:29.728 plugin-container[55794:5022349] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d43, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-11 06:52:29.728 plugin-container[55794:5022349] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=31.059) [Child 55794] ###!!! ABORT: Aborting on channel error.: file /home/debian/build/tor-browser/ipc/glue/MessageChannel.cpp, line 2152
+[Child 55794] ###!!! ABORT: Aborting on channel error.: file /home/debian/build/tor-browser/ipc/glue/MessageChannel.cpp, line 2152
+1510900680343	geckodriver	INFO	geckodriver 0.18.0
+1510900680440	geckodriver	INFO	Listening on 127.0.0.1:63308
+1510900681653	geckodriver::marionette	INFO	Starting browser /Applications/TorBrowser.app/Contents/MacOS/firefox with args ["-marionette"]
+1510900682600	addons.xpi-utils	ERROR	Unable to read anything useful from the database
+1510900683400	Marionette	INFO	Listening on port 63320
+1510900683500	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/browser.js, line 7783: TypeError: gURLBar is null
+2017-11-17 06:38:05.478 plugin-container[11115:5902460] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x923f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-17 06:38:05.482 plugin-container[11115:5902460] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x5407, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-17 06:38:05.482 plugin-container[11115:5902460] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+2017-11-17 06:39:00.061 plugin-container[11186:5903872] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-17 06:39:00.065 plugin-container[11186:5903872] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x481f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-17 06:39:00.065 plugin-container[11186:5903872] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1511027841086	geckodriver	INFO	geckodriver 0.18.0
+1511027841175	geckodriver	INFO	Listening on 127.0.0.1:51521
+1511027842256	geckodriver::marionette	INFO	Starting browser /Applications/TorBrowser.app/Contents/MacOS/firefox with args ["-marionette"]
+1511027842600	addons.xpi-utils	ERROR	Unable to read anything useful from the database
+1511027843200	Marionette	INFO	Listening on port 51530
+1511027843500	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/browser.js, line 7783: TypeError: gURLBar is null
+2017-11-18 17:57:25.278 plugin-container[12178:6062063] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-18 17:57:25.282 plugin-container[12178:6062063] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4e17, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-18 17:57:25.283 plugin-container[12178:6062063] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+2017-11-18 18:00:41.197 plugin-container[12201:6064238] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-18 18:00:41.202 plugin-container[12201:6064238] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x930b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-18 18:00:41.202 plugin-container[12201:6064238] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1511028066273	geckodriver	INFO	geckodriver 0.18.0
+1511028066326	geckodriver	INFO	Listening on 127.0.0.1:51755
+1511028067422	geckodriver::marionette	INFO	Starting browser /Applications/TorBrowser.app/Contents/MacOS/firefox with args ["-marionette"]
+1511028067700	addons.xpi-utils	ERROR	Unable to read anything useful from the database
+1511028068200	Marionette	INFO	Listening on port 51764
+1511028068400	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/browser.js, line 7783: TypeError: gURLBar is null
+2017-11-18 18:01:10.195 plugin-container[12218:6064950] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-18 18:01:10.196 plugin-container[12218:6064950] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4e1f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-18 18:01:10.196 plugin-container[12218:6064950] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1511028088751	geckodriver	INFO	geckodriver 0.18.0
+1511028088837	geckodriver	INFO	Listening on 127.0.0.1:51797
+1511028089879	geckodriver::marionette	INFO	Starting browser /Applications/TorBrowser.app/Contents/MacOS/firefox with args ["-marionette"]
+1511028090200	addons.xpi-utils	ERROR	Unable to read anything useful from the database
+1511028091000	Marionette	INFO	Listening on port 51806
+1511028091100	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/browser.js, line 7783: TypeError: gURLBar is null
+2017-11-18 18:01:33.141 plugin-container[12225:6065482] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-18 18:01:33.142 plugin-container[12225:6065482] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x5007, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-18 18:01:33.142 plugin-container[12225:6065482] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+2017-11-18 18:02:12.433 plugin-container[12227:6065874] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-18 18:02:12.437 plugin-container[12227:6065874] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f1f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-18 18:02:12.437 plugin-container[12227:6065874] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1511028146691	geckodriver	INFO	geckodriver 0.18.0
+1511028146745	geckodriver	INFO	Listening on 127.0.0.1:51840
+1511028147833	geckodriver::marionette	INFO	Starting browser /Applications/TorBrowser.app/Contents/MacOS/firefox with args ["-marionette"]
+1511028148100	addons.xpi-utils	ERROR	Unable to read anything useful from the database
+1511028148800	Marionette	INFO	Listening on port 51850
+1511028148900	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/browser.js, line 7783: TypeError: gURLBar is null
+2017-11-18 18:02:30.979 plugin-container[12234:6066227] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-18 18:02:30.982 plugin-container[12234:6066227] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4c07, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-18 18:02:30.982 plugin-container[12234:6066227] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1511085339616	geckodriver	INFO	geckodriver 0.18.0
+1511085339775	geckodriver	INFO	Listening on 127.0.0.1:52537
+1511085340968	geckodriver::marionette	INFO	Starting browser /Applications/TorBrowser.app/Contents/MacOS/firefox with args ["-marionette"]
+1511085341300	addons.xpi-utils	ERROR	Unable to read anything useful from the database
+1511085342000	Marionette	INFO	Listening on port 52548
+1511085342200	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/browser.js, line 7783: TypeError: gURLBar is null
+2017-11-19 09:55:44.056 plugin-container[12468:6079734] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c4b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-19 09:55:44.063 plugin-container[12468:6079734] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4a07, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-19 09:55:44.063 plugin-container[12468:6079734] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1511085413438	geckodriver	INFO	geckodriver 0.18.0
+1511085413550	geckodriver	INFO	Listening on 127.0.0.1:52582
+1511085414558	geckodriver::marionette	INFO	Starting browser /Applications/TorBrowser.app/Contents/MacOS/firefox with args ["-marionette"]
+1511085414900	addons.xpi-utils	ERROR	Unable to read anything useful from the database
+1511085415500	Marionette	INFO	Listening on port 52591
+1511085415600	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/browser.js, line 7783: TypeError: gURLBar is null
+2017-11-19 09:56:57.507 plugin-container[12475:6080553] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-19 09:56:57.513 plugin-container[12475:6080553] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f13, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-19 09:56:57.513 plugin-container[12475:6080553] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=36.5192) [GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 12475] ###!!! ABORT: Aborting on channel error.: file /home/debian/build/tor-browser/ipc/glue/MessageChannel.cpp, line 2152
+[Child 12475] ###!!! ABORT: Aborting on channel error.: file /home/debian/build/tor-browser/ipc/glue/MessageChannel.cpp, line 2152
+1511187058067	geckodriver	INFO	geckodriver 0.18.0
+1511187058171	geckodriver	INFO	Listening on 127.0.0.1:59423
+1511187059262	geckodriver::marionette	INFO	Starting browser /Applications/TorBrowser.app/Contents/MacOS/firefox with args ["-marionette"]
+1511187059600	addons.xpi-utils	ERROR	Unable to read anything useful from the database
+1511187060200	Marionette	INFO	Listening on port 59456
+1511187060400	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/browser.js, line 7783: TypeError: gURLBar is null
+2017-11-20 14:11:02.600 plugin-container[33341:6277736] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-20 14:11:02.604 plugin-container[33341:6277736] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4f07, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-20 14:11:02.604 plugin-container[33341:6277736] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+2017-11-20 14:11:44.804 plugin-container[33344:6278233] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-20 14:11:44.805 plugin-container[33344:6278233] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4b23, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-20 14:11:44.805 plugin-container[33344:6278233] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1511187130828	geckodriver	INFO	geckodriver 0.18.0
+1511187130887	geckodriver	INFO	Listening on 127.0.0.1:60927
+1511187131963	geckodriver::marionette	INFO	Starting browser /Applications/TorBrowser.app/Contents/MacOS/firefox with args ["-marionette"]
+1511187132200	addons.xpi-utils	ERROR	Unable to read anything useful from the database
+1511187132900	Marionette	INFO	Listening on port 60959
+1511187133100	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/browser.js, line 7783: TypeError: gURLBar is null
+2017-11-20 14:12:15.387 plugin-container[33351:6278793] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-20 14:12:15.388 plugin-container[33351:6278793] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d4b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-20 14:12:15.388 plugin-container[33351:6278793] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+2017-11-20 14:12:46.220 plugin-container[33352:6279042] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-20 14:12:46.221 plugin-container[33352:6279042] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4e13, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-20 14:12:46.221 plugin-container[33352:6279042] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1511187177731	geckodriver	INFO	geckodriver 0.18.0
+1511187177830	geckodriver	INFO	Listening on 127.0.0.1:61905
+1511187178926	geckodriver::marionette	INFO	Starting browser /Applications/TorBrowser.app/Contents/MacOS/firefox with args ["-marionette"]
+1511187179200	addons.xpi-utils	ERROR	Unable to read anything useful from the database
+1511187179800	Marionette	INFO	Listening on port 61939
+1511187180000	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/browser.js, line 7783: TypeError: gURLBar is null
+2017-11-20 14:13:02.040 plugin-container[33359:6279465] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e47, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-20 14:13:02.044 plugin-container[33359:6279465] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x930f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-20 14:13:02.044 plugin-container[33359:6279465] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=30.6808) [Child 33359] ###!!! ABORT: Aborting on channel error.: file /home/debian/build/tor-browser/ipc/glue/MessageChannel.cpp, line 2152
+[Child 33359] ###!!! ABORT: Aborting on channel error.: file /home/debian/build/tor-browser/ipc/glue/MessageChannel.cpp, line 2152
+1511249353155	geckodriver	INFO	geckodriver 0.18.0
+1511249353211	geckodriver	INFO	Listening on 127.0.0.1:56884
+1511249354343	geckodriver::marionette	INFO	Starting browser /Applications/TorBrowser.app/Contents/MacOS/firefox with args ["-marionette"]
+1511249354600	addons.xpi-utils	ERROR	Unable to read anything useful from the database
+1511249355100	Marionette	INFO	Listening on port 56916
+1511249355300	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/browser.js, line 7783: TypeError: gURLBar is null
+2017-11-21 07:29:16.820 plugin-container[49921:6413769] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-21 07:29:16.821 plugin-container[49921:6413769] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4e1b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-21 07:29:16.821 plugin-container[49921:6413769] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+[Child 49921] ###!!! ABORT: Aborting on channel error.: file /home/debian/build/tor-browser/ipc/glue/MessageChannel.cpp, line 2152
+[Child 49921] ###!!! ABORT: Aborting on channel error.: file /home/debian/build/tor-browser/ipc/glue/MessageChannel.cpp, line 2152
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=59.4022) 1511349063770	geckodriver	INFO	geckodriver 0.18.0
+1511349063838	geckodriver	INFO	Listening on 127.0.0.1:63523
+1511349064966	geckodriver::marionette	INFO	Starting browser /Applications/TorBrowser.app/Contents/MacOS/firefox with args ["-marionette"]
+1511349065300	addons.xpi-utils	ERROR	Unable to read anything useful from the database
+1511349065900	Marionette	INFO	Listening on port 63532
+1511349066000	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/browser.js, line 7783: TypeError: gURLBar is null
+2017-11-22 11:11:07.970 plugin-container[59102:6660506] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-22 11:11:07.983 plugin-container[59102:6660506] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4e07, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-22 11:11:07.984 plugin-container[59102:6660506] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=16.1439) [Child 59102] ###!!! ABORT: Aborting on channel error.: file /home/debian/build/tor-browser/ipc/glue/MessageChannel.cpp, line 2152
+[Child 59102] ###!!! ABORT: Aborting on channel error.: file /home/debian/build/tor-browser/ipc/glue/MessageChannel.cpp, line 2152
+1511451250077	geckodriver	INFO	geckodriver 0.18.0
+1511451250156	geckodriver	INFO	Listening on 127.0.0.1:50088
+1511451251237	geckodriver::marionette	INFO	Starting browser /Applications/TorBrowser.app/Contents/MacOS/firefox with args ["-marionette"]
+1511451251600	addons.xpi-utils	ERROR	Unable to read anything useful from the database
+1511451252200	Marionette	INFO	Listening on port 50097
+1511451252400	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/browser.js, line 7783: TypeError: gURLBar is null
+2017-11-23 15:34:14.966 plugin-container[88058:6851421] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-23 15:34:14.970 plugin-container[88058:6851421] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4d07, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-23 15:34:14.970 plugin-container[88058:6851421] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+2017-11-23 15:34:41.391 plugin-container[88059:6851726] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-23 15:34:41.391 plugin-container[88059:6851726] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f1f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-23 15:34:41.391 plugin-container[88059:6851726] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=1.00594) 
+###!!! [Child][MessageChannel] Error: (msgtype=0x4600D1,name=PContent::Msg_GraphicsError) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1511451294668	geckodriver	INFO	geckodriver 0.18.0
+1511451294744	geckodriver	INFO	Listening on 127.0.0.1:50132
+1511451295830	geckodriver::marionette	INFO	Starting browser /Applications/TorBrowser.app/Contents/MacOS/firefox with args ["-marionette"]
+1511451296200	addons.xpi-utils	ERROR	Unable to read anything useful from the database
+1511451296800	Marionette	INFO	Listening on port 50141
+1511451297000	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/browser.js, line 7783: TypeError: gURLBar is null
+2017-11-23 15:34:59.099 plugin-container[88066:6852213] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-23 15:34:59.101 plugin-container[88066:6852213] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4c07, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-23 15:34:59.102 plugin-container[88066:6852213] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1511451374361	geckodriver	INFO	geckodriver 0.18.0
+1511451374438	geckodriver	INFO	Listening on 127.0.0.1:50184
+1511451375491	geckodriver::marionette	INFO	Starting browser /Applications/TorBrowser.app/Contents/MacOS/firefox with args ["-marionette"]
+1511451375800	addons.xpi-utils	ERROR	Unable to read anything useful from the database
+1511451376400	Marionette	INFO	Listening on port 50193
+1511451376600	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/browser.js, line 7783: TypeError: gURLBar is null
+2017-11-23 15:36:19.164 plugin-container[88074:6853288] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-23 15:36:19.168 plugin-container[88074:6853288] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e0b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-23 15:36:19.168 plugin-container[88074:6853288] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+[Child 88074] ###!!! ABORT: Aborting on channel error.: file /home/debian/build/tor-browser/ipc/glue/MessageChannel.cpp, line 2152
+[Child 88074] ###!!! ABORT: Aborting on channel error.: file /home/debian/build/tor-browser/ipc/glue/MessageChannel.cpp, line 2152
+1511615950387	geckodriver	INFO	geckodriver 0.18.0
+1511615950464	geckodriver	INFO	Listening on 127.0.0.1:61476
+1511615951529	geckodriver::marionette	INFO	Starting browser /Applications/TorBrowser.app/Contents/MacOS/firefox with args ["-marionette"]
+1511615951800	addons.xpi-utils	ERROR	Unable to read anything useful from the database
+1511615952400	Marionette	INFO	Listening on port 61486
+1511615952600	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/browser.js, line 7783: TypeError: gURLBar is null
+2017-11-25 13:19:14.342 plugin-container[93955:7106209] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-25 13:19:14.347 plugin-container[93955:7106209] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4c1f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-25 13:19:14.348 plugin-container[93955:7106209] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=57.5259) [GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 93955] ###!!! ABORT: Aborting on channel error.: file /home/debian/build/tor-browser/ipc/glue/MessageChannel.cpp, line 2152
+[Child 93955] ###!!! ABORT: Aborting on channel error.: file /home/debian/build/tor-browser/ipc/glue/MessageChannel.cpp, line 2152
+1511682498143	geckodriver	INFO	geckodriver 0.18.0
+1511682498216	geckodriver	INFO	Listening on 127.0.0.1:63309
+1511682499351	geckodriver::marionette	INFO	Starting browser /Applications/TorBrowser.app/Contents/MacOS/firefox with args ["-marionette"]
+1511682499800	addons.xpi-utils	ERROR	Unable to read anything useful from the database
+1511682500300	Marionette	INFO	Listening on port 63318
+1511682500600	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/browser.js, line 7783: TypeError: gURLBar is null
+2017-11-26 07:48:22.559 plugin-container[94339:7169846] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x903f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-26 07:48:22.561 plugin-container[94339:7169846] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x5107, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-26 07:48:22.561 plugin-container[94339:7169846] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1511682677936	geckodriver	INFO	geckodriver 0.18.0
+1511682678010	geckodriver	INFO	Listening on 127.0.0.1:63365
+1511682679099	geckodriver::marionette	INFO	Starting browser /Applications/TorBrowser.app/Contents/MacOS/firefox with args ["-marionette"]
+1511682679700	addons.xpi-utils	ERROR	Unable to read anything useful from the database
+1511682680400	Marionette	INFO	Listening on port 63377
+1511682680600	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/browser.js, line 7783: TypeError: gURLBar is null
+2017-11-26 07:51:22.566 plugin-container[94349:7171186] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-26 07:51:22.568 plugin-container[94349:7171186] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4c07, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-26 07:51:22.569 plugin-container[94349:7171186] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+[Child 94349] ###!!! ABORT: Aborting on channel error.: file /home/debian/build/tor-browser/ipc/glue/MessageChannel.cpp, line 2152
+[Child 94349] ###!!! ABORT: Aborting on channel error.: file /home/debian/build/tor-browser/ipc/glue/MessageChannel.cpp, line 2152
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=47.1241) 1511793774478	geckodriver	INFO	geckodriver 0.18.0
+1511793774551	geckodriver	INFO	Listening on 127.0.0.1:56764
+1511793775655	geckodriver::marionette	INFO	Starting browser /Applications/TorBrowser.app/Contents/MacOS/firefox with args ["-marionette"]
+1511793776000	addons.xpi-utils	ERROR	Unable to read anything useful from the database
+1511793776700	Marionette	INFO	Listening on port 56773
+1511793776800	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/browser.js, line 7783: TypeError: gURLBar is null
+2017-11-27 14:42:58.839 plugin-container[7888:7455036] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-27 14:42:58.846 plugin-container[7888:7455036] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4817, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-27 14:42:58.846 plugin-container[7888:7455036] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=28.7104) [GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 7888] ###!!! ABORT: Aborting on channel error.: file /home/debian/build/tor-browser/ipc/glue/MessageChannel.cpp, line 2152
+[Child 7888] ###!!! ABORT: Aborting on channel error.: file /home/debian/build/tor-browser/ipc/glue/MessageChannel.cpp, line 2152
+2017-11-27 23:15:01.059 geckodriver[12466:7465378] Metadata.framework [Error]: server port invalidated for uid 501
+2017-11-27 23:15:01.062 geckodriver[36537:7465376] Metadata.framework [Error]: server port invalidated for uid 501
+2017-11-27 23:15:01.067 geckodriver[33349:7465363] Metadata.framework [Error]: server port invalidated for uid 501
+2017-11-27 23:15:01.066 geckodriver[94337:7465331] Metadata.framework [Error]: server port invalidated for uid 501
+2017-11-27 23:15:01.063 geckodriver[11105:7465365] Metadata.framework [Error]: server port invalidated for uid 501
+2017-11-27 23:15:01.063 geckodriver[55782:7465349] Metadata.framework [Error]: server port invalidated for uid 501
+2017-11-27 23:15:01.067 geckodriver[12223:7465357] Metadata.framework [Error]: server port invalidated for uid 501
+2017-11-27 23:15:01.068 geckodriver[88064:7465355] Metadata.framework [Error]: server port invalidated for uid 501
+2017-11-27 23:15:01.081 geckodriver[12466:7465377] Metadata.framework [Error]: client check-in failed: (-308) (ipc/mig) server died
+2017-11-27 23:15:01.081 geckodriver[36537:7465374] Metadata.framework [Error]: client check-in failed: (-308) (ipc/mig) server died
+2017-11-27 23:15:01.081 geckodriver[55782:7465662] Metadata.framework [Error]: client check-in failed: (-308) (ipc/mig) server died
+2017-11-27 23:15:01.081 geckodriver[11105:7465661] Metadata.framework [Error]: client check-in failed: (-308) (ipc/mig) server died
+2017-11-27 23:15:01.082 geckodriver[33349:7465363] Metadata.framework [Error]: client check-in failed: (-308) (ipc/mig) server died
+2017-11-27 23:15:01.082 geckodriver[12223:7465665] Metadata.framework [Error]: client check-in failed: (-308) (ipc/mig) server died
+2017-11-27 23:15:01.082 geckodriver[88064:7465355] Metadata.framework [Error]: client check-in failed: (-308) (ipc/mig) server died
+2017-11-27 23:15:01.082 geckodriver[94337:7465331] Metadata.framework [Error]: client check-in failed: (-308) (ipc/mig) server died
+2017-11-27 23:15:01.082 geckodriver[36537:7465392] Metadata.framework [Error]: couldn't get the client port
+2017-11-27 23:15:01.082 geckodriver[12466:7465379] Metadata.framework [Error]: couldn't get the client port
+2017-11-27 23:15:01.082 geckodriver[11105:7465367] Metadata.framework [Error]: couldn't get the client port
+2017-11-27 23:15:01.082 geckodriver[55782:7465350] Metadata.framework [Error]: couldn't get the client port
+2017-11-27 23:15:01.083 geckodriver[33349:7465366] Metadata.framework [Error]: couldn't get the client port
+2017-11-27 23:15:01.083 geckodriver[88064:7465408] Metadata.framework [Error]: couldn't get the client port
+2017-11-27 23:15:01.083 geckodriver[12223:7465358] Metadata.framework [Error]: couldn't get the client port
+2017-11-27 23:15:01.083 geckodriver[94337:7465333] Metadata.framework [Error]: couldn't get the client port
+1511861345354	geckodriver	INFO	geckodriver 0.18.0
+1511861345417	geckodriver	INFO	Listening on 127.0.0.1:49828
+1511861346470	geckodriver::marionette	INFO	Starting browser /Applications/TorBrowser.app/Contents/MacOS/firefox with args ["-marionette"]
+1511861346800	addons.xpi-utils	ERROR	Unable to read anything useful from the database
+1511861347500	Marionette	INFO	Listening on port 49837
+1511861347800	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/browser.js, line 7783: TypeError: gURLBar is null
+2017-11-28 09:29:09.794 plugin-container[639:13024] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-28 09:29:09.797 plugin-container[639:13024] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x930f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-28 09:29:09.797 plugin-container[639:13024] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+2017-11-28 09:30:57.687 plugin-container[646:13645] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e4f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-28 09:30:57.691 plugin-container[646:13645] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4d13, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-28 09:30:57.691 plugin-container[646:13645] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1511861476193	geckodriver	INFO	geckodriver 0.18.0
+1511861476243	geckodriver	INFO	Listening on 127.0.0.1:49924
+1511861477311	geckodriver::marionette	INFO	Starting browser /Applications/TorBrowser.app/Contents/MacOS/firefox with args ["-marionette"]
+1511861477700	addons.xpi-utils	ERROR	Unable to read anything useful from the database
+1511861478400	Marionette	INFO	Listening on port 49933
+1511861478700	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/browser.js, line 7783: TypeError: gURLBar is null
+2017-11-28 09:31:20.979 plugin-container[655:14096] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-28 09:31:20.982 plugin-container[655:14096] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x5007, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-28 09:31:20.982 plugin-container[655:14096] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1511861569427	geckodriver	INFO	geckodriver 0.18.0
+1511861569493	geckodriver	INFO	Listening on 127.0.0.1:49986
+1511861570532	geckodriver::marionette	INFO	Starting browser /Applications/TorBrowser.app/Contents/MacOS/firefox with args ["-marionette"]
+1511861570900	addons.xpi-utils	ERROR	Unable to read anything useful from the database
+1511861571400	Marionette	INFO	Listening on port 49995
+1511861571600	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/browser.js, line 7783: TypeError: gURLBar is null
+2017-11-28 09:32:53.677 plugin-container[664:14839] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-28 09:32:53.687 plugin-container[664:14839] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4f07, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-28 09:32:53.687 plugin-container[664:14839] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+2017-11-28 09:33:18.018 plugin-container[665:15001] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x953b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-28 09:33:18.018 plugin-container[665:15001] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4817, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-28 09:33:18.018 plugin-container[665:15001] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1511861614560	geckodriver	INFO	geckodriver 0.18.0
+1511861614630	geckodriver	INFO	Listening on 127.0.0.1:50032
+1511861615743	geckodriver::marionette	INFO	Starting browser /Applications/TorBrowser.app/Contents/MacOS/firefox with args ["-marionette"]
+1511861616100	addons.xpi-utils	ERROR	Unable to read anything useful from the database
+1511861616700	Marionette	INFO	Listening on port 50056
+1511861616900	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/browser.js, line 7783: TypeError: gURLBar is null
+2017-11-28 09:33:38.826 plugin-container[674:15484] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-28 09:33:38.827 plugin-container[674:15484] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e0b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-28 09:33:38.827 plugin-container[674:15484] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1511861715388	geckodriver	INFO	geckodriver 0.18.0
+1511861715480	geckodriver	INFO	Listening on 127.0.0.1:50092
+1511861716542	geckodriver::marionette	INFO	Starting browser /Applications/TorBrowser.app/Contents/MacOS/firefox with args ["-marionette"]
+1511861717100	addons.xpi-utils	ERROR	Unable to read anything useful from the database
+1511861717800	Marionette	INFO	Listening on port 50101
+1511861718000	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/browser.js, line 7783: TypeError: gURLBar is null
+2017-11-28 09:35:19.750 plugin-container[684:16309] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-28 09:35:19.751 plugin-container[684:16309] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9013, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-28 09:35:19.751 plugin-container[684:16309] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+[Child 684] ###!!! ABORT: Aborting on channel error.: file /home/debian/build/tor-browser/ipc/glue/MessageChannel.cpp, line 2152
+[Child 684] ###!!! ABORT: Aborting on channel error.: file /home/debian/build/tor-browser/ipc/glue/MessageChannel.cpp, line 2152
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=68.9559) 1512014736509	geckodriver	INFO	geckodriver 0.18.0
+1512014736609	geckodriver	INFO	Listening on 127.0.0.1:64388
+1512014737698	geckodriver::marionette	INFO	Starting browser /Applications/TorBrowser.app/Contents/MacOS/firefox with args ["-marionette"]
+1512014738000	addons.xpi-utils	ERROR	Unable to read anything useful from the database
+1512014738700	Marionette	INFO	Listening on port 64400
+1512014738800	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/browser.js, line 7783: TypeError: gURLBar is null
+2017-11-30 04:05:41.137 plugin-container[8515:202373] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-30 04:05:41.142 plugin-container[8515:202373] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9217, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-30 04:05:41.143 plugin-container[8515:202373] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+2017-11-30 04:06:28.287 plugin-container[8578:202940] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d2f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-30 04:06:28.293 plugin-container[8578:202940] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f0f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-30 04:06:28.293 plugin-container[8578:202940] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=0.950635) 
+###!!! [Child][MessageChannel] Error: (msgtype=0x4600D1,name=PContent::Msg_GraphicsError) Channel error: cannot send/recv
+
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1512014804076	geckodriver	INFO	geckodriver 0.18.0
+1512014804142	geckodriver	INFO	Listening on 127.0.0.1:64532
+1512014805215	geckodriver::marionette	INFO	Starting browser /Applications/TorBrowser.app/Contents/MacOS/firefox with args ["-marionette"]
+1512014805600	addons.xpi-utils	ERROR	Unable to read anything useful from the database
+1512014806600	Marionette	INFO	Listening on port 64542
+1512014807000	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/browser.js, line 7783: TypeError: gURLBar is null
+2017-11-30 04:06:49.771 plugin-container[8639:203457] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-30 04:06:49.778 plugin-container[8639:203457] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4d07, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-30 04:06:49.778 plugin-container[8639:203457] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=130.085) [GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8639] ###!!! ABORT: Aborting on channel error.: file /home/debian/build/tor-browser/ipc/glue/MessageChannel.cpp, line 2152
+[Child 8639] ###!!! ABORT: Aborting on channel error.: file /home/debian/build/tor-browser/ipc/glue/MessageChannel.cpp, line 2152
+2017-11-30 12:33:27.218 geckodriver[8507:219300] Metadata.framework [Error]: server port invalidated for uid 501
+2017-11-30 12:33:27.250 geckodriver[8507:219301] Metadata.framework [Error]: client check-in failed: (-308) (ipc/mig) server died
+2017-11-30 12:33:27.250 geckodriver[8507:219300] Metadata.framework [Error]: couldn't get the client port
+1512109540311	geckodriver	INFO	geckodriver 0.18.0
+1512109540396	geckodriver	INFO	Listening on 127.0.0.1:49913
+1512109541440	geckodriver::marionette	INFO	Starting browser /Applications/TorBrowser.app/Contents/MacOS/firefox with args ["-marionette"]
+1512109541800	addons.xpi-utils	ERROR	Unable to read anything useful from the database
+1512109542400	Marionette	INFO	Listening on port 49922
+1512109542600	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/browser.js, line 7783: TypeError: gURLBar is null
+2017-12-01 06:25:44.370 plugin-container[615:19900] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4847, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-12-01 06:25:44.377 plugin-container[615:19900] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x950f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-12-01 06:25:44.377 plugin-container[615:19900] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+[Child 615] ###!!! ABORT: Aborting on channel error.: file /home/debian/build/tor-browser/ipc/glue/MessageChannel.cpp, line 2152
+[Child 615] ###!!! ABORT: Aborting on channel error.: file /home/debian/build/tor-browser/ipc/glue/MessageChannel.cpp, line 2152
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=27.2595) 1512218960861	geckodriver	INFO	geckodriver 0.18.0
+1512218960942	geckodriver	INFO	Listening on 127.0.0.1:50353
+1512218962014	geckodriver::marionette	INFO	Starting browser /Applications/TorBrowser.app/Contents/MacOS/firefox with args ["-marionette"]
+1512218962300	addons.xpi-utils	ERROR	Unable to read anything useful from the database
+1512218962800	Marionette	INFO	Listening on port 50362
+1512218963100	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/browser.js, line 7783: TypeError: gURLBar is null
+2017-12-02 12:49:24.907 plugin-container[787:25759] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-12-02 12:49:24.910 plugin-container[787:25759] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9213, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-12-02 12:49:24.910 plugin-container[787:25759] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1512219062132	geckodriver	INFO	geckodriver 0.18.0
+1512219062208	geckodriver	INFO	Listening on 127.0.0.1:50406
+1512219063266	geckodriver::marionette	INFO	Starting browser /Applications/TorBrowser.app/Contents/MacOS/firefox with args ["-marionette"]
+1512219063700	addons.xpi-utils	ERROR	Unable to read anything useful from the database
+1512219064300	Marionette	INFO	Listening on port 50416
+1512219064500	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/browser.js, line 7783: TypeError: gURLBar is null
+2017-12-02 12:51:06.420 plugin-container[796:26745] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-12-02 12:51:06.427 plugin-container[796:26745] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f13, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-12-02 12:51:06.427 plugin-container[796:26745] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=56.2743) [GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 796] ###!!! ABORT: Aborting on channel error.: file /home/debian/build/tor-browser/ipc/glue/MessageChannel.cpp, line 2152
+[Child 796] ###!!! ABORT: Aborting on channel error.: file /home/debian/build/tor-browser/ipc/glue/MessageChannel.cpp, line 2152
+1512315975293	geckodriver	INFO	geckodriver 0.18.0
+1512315975364	geckodriver	INFO	Listening on 127.0.0.1:54772
+1512315976451	geckodriver::marionette	INFO	Starting browser /Applications/TorBrowser.app/Contents/MacOS/firefox with args ["-marionette"]
+1512315976700	addons.xpi-utils	ERROR	Unable to read anything useful from the database
+1512315977500	Marionette	INFO	Listening on port 54781
+1512315977700	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/browser.js, line 7783: TypeError: gURLBar is null
+2017-12-03 15:46:19.492 plugin-container[1762:122111] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-12-03 15:46:19.494 plugin-container[1762:122111] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f13, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-12-03 15:46:19.494 plugin-container[1762:122111] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+Crash Annotation GraphicsCriticalError: |[C0][GFX1-]: Receive IPC close with reason=AbnormalShutdown (t=37.6493) [GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 1762] WARNING: pipe error: Broken pipe: file /home/debian/build/tor-browser/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 685
+[Child 1762] ###!!! ABORT: Aborting on channel error.: file /home/debian/build/tor-browser/ipc/glue/MessageChannel.cpp, line 2152
+[Child 1762] ###!!! ABORT: Aborting on channel error.: file /home/debian/build/tor-browser/ipc/glue/MessageChannel.cpp, line 2152
